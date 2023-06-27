@@ -8,4 +8,4 @@ function Verificar(){
     if(!email || !senha){
         alert("Campos de prenchimentos obrigatório. Favor preencher")
     }
-}
+} 
