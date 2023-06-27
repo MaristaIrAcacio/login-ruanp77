@@ -7,5 +7,7 @@ function Verificar(){
 
     if(!email || !senha){
         alert("Campos de prenchimentos obrigatório. Favor preencher")
+    } else {
+        window.location.href = "aula2.html";
     }
 } 
